@@ -1,0 +1,6 @@
+{
+  "name": "NEUROVERSE — Explore Beyond Reality",
+  "description": "An award-level immersive 3D WebGL digital universe featuring six interconnected scroll-choreographed dimensions, liquid-glass PBR materials, custom GLSL shaders, spatial audio, and kinetic 3D typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
